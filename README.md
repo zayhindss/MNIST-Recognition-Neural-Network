@@ -1,6 +1,3 @@
 TO USE:
 
-download MNIST test and training datasets in CSV format and name them as so:
-
-mnist_test.csv
-mnist_train.csv
+unzip mnist.zip file, and have both csv files in same directory as NN2.java
